@@ -2,12 +2,11 @@
 
 # -- Project information
 
-project = 'Lumache'
-copyright = '2021, Graziella'
-author = 'Graziella'
+project = 'nissanabi 13'
+copyright = '2021, nissanabi13'
+author = 'nissanabi13'
 
-release = '0.1'
-version = '0.1.0'
+
 
 # -- General configuration
 
